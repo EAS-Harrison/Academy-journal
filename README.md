@@ -1,1 +1,3 @@
 # Academy-journal
+Goals- I aim to advance my skills and get more confident with programming and software developing.I want to be able to be good at my job and enjoy it. I want to be able to easily and comfortably navigate my way around the macOS.
+Concerns- I dont know much about software development yet and I am a lower skill level than my peers.I have never used the macOS before and it has some teething issues to overcome
