@@ -1,0 +1,25 @@
+What does ls do? , Prints the files and folders in the current directory.
+What does MKDIR do ?, Creates a new directory I.e “mkdr folder_name”
+What does ">" do ? ,Directs the output of the preceding command to a new file ie ‘ls > file_list’
+What does cat do ? , Prints the contents of the file I.e “cat filename”
+What does cp do ? , Copies a file or folder ie “cp file_name copy_file_name”
+What does "&" do ? ,Executes the command but runs it in the background until completion
+What does CHOWN do ?, Changes the owner of a file ie ‘chown user:group file_name’
+What does ".." mean ?, Shorthand for the parent folder ie ‘cd ..’
+What is a Shell/Terminal?, A command prompt used for executing commands ie BASH ,SH ,KSH.
+What is Root?, The top level directory of the file system, or the administrator of the OS
+What does STDOUT mean?, Standard out.Refers to the non error output of a command in a terminal.
+What is $ used for? Precedes an environmental variable name for use ie ‘echo $PATH’
+What does SUDO do ? Executes the command following as a root user ie ‘sudo mkdr /root/folder_name’
+What does MV do? Moves a file or folder ie “mv file_name new_file_name’
+What is a popular package manager for mac?, Homebrew.
+What OS does a mac run on? Linux
+What does "." mean? Relates to the current folder to be used in a path ie “./file_name’
+What does "<" ? Directs the output of a command into a preceding command
+What does "|" do ? Sends the output of the preceding command to the following command (pipe)
+What does the command RM do ? Deletes a file or folder i.e “rm filename” or “rm -rf foldername”
+What does ‘>>’ do ? Appends the output of the preceding command to and existing file ie ‘ls >>existing_file_list’
+What does ; do ? Chains two or more commands together even if the preceding command failed.
+What does PWD do? print current working directory		
+What does STDIN mean? Standard in.Refers to input provided in a terminal or redirected from a standard out
+What does ECHO do ? Prints the contents of a variable I.e “echo $PATH”
