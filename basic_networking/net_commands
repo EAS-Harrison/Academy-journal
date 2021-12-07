@@ -1,0 +1,27 @@
+ls
+ifconfig
+apt install net-tools
+ifconfig
+~$/etc# cd netplan
+ls
+vi 00-installer-config.yam1
+cat 00-installer-config.yam1
+cat /etc/resolv.conf
+netplan apply
+cd /etc
+cat /etc
+cat resolv.conf
+vi resolv.config
+nslookup wwww.enterpriseautomation.co.uk
+ping 192.168.1.122
+hostname
+ifconfig
+cat hosts
+vi hosts
+ping Maxine
+
+
+
+
+
+
