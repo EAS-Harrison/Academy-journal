@@ -1,0 +1,13 @@
+ls
+ifconfig
+apt install net-tools
+ifconfig
+
+
+
+
+
+
+
+
+hostname
