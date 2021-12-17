@@ -3,9 +3,9 @@ What does MKDIR do ?, Creates a new directory I.e “mkdr folder_name”
 What does > do ? ,Directs the output of the preceding command to a new file ie ls > file_list
 What does cat do ? , Prints the contents of the file I.e “cat filename”
 What does cp do ? , Copies a file or folder ie “cp file_name copy_file_name”
-What does "&" do ? ,Executes the command but runs it in the background until completion
+What does & do ? ,Executes the command but runs it in the background until completion
 What does CHOWN do ?, Changes the owner of a file ie ‘chown user:group file_name’
-What does ".." mean ?, Shorthand for the parent folder ie ‘cd ..’
+What does .. mean ?, Shorthand for the parent folder ie cd ..
 What is a Shell/Terminal?, A command prompt used for executing commands ie BASH ,SH ,KSH.
 What is Root?, The top level directory of the file system, or the administrator of the OS
 What does STDOUT mean?, Standard out.Refers to the non error output of a command in a terminal.
