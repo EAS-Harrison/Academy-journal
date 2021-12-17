@@ -14,7 +14,7 @@ What does SUDO do ? Executes the command following as a root user ie ‘sudo mkd
 What does MV do? Moves a file or folder ie “mv file_name new_file_name’
 What is a popular package manager for mac?, Homebrew.
 What OS does a mac run on? Linux
-What does "." mean? Relates to the current folder to be used in a path ie “./file_name’
+What does . mean? Relates to the current folder to be used in a path ie ./file_name
 What does "<" ? Directs the output of a command into a preceding command
 What does "|" do ? Sends the output of the preceding command to the following command (pipe)
 What does the command RM do ? Deletes a file or folder i.e “rm filename” or “rm -rf foldername”
