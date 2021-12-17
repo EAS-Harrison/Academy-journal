@@ -1,3 +1,4 @@
+Question , Answer
 What does ls do? , Prints the files and folders in the current directory.
 What does MKDIR do ?, Creates a new directory I.e “mkdr folder_name”
 What does > do ? ,Directs the output of the preceding command to a new file ie ls > file_list
