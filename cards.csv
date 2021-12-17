@@ -16,7 +16,7 @@ What is a popular package manager for mac?, Homebrew.
 What OS does a mac run on? Linux
 What does . mean? Relates to the current folder to be used in a path ie ./file_name
 What does < ? Directs the output of a command into a preceding command
-What does "|" do ? Sends the output of the preceding command to the following command (pipe)
+What does | do ? Sends the output of the preceding command to the following command (pipe)
 What does the command RM do ? Deletes a file or folder i.e “rm filename” or “rm -rf foldername”
 What does ‘>>’ do ? Appends the output of the preceding command to and existing file ie ‘ls >>existing_file_list’
 What does ; do ? Chains two or more commands together even if the preceding command failed.
